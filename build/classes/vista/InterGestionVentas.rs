@@ -1,0 +1,3 @@
+Vista.InterGestionVentas$1
+Vista.InterGestionVentas$2
+Vista.InterGestionVentas

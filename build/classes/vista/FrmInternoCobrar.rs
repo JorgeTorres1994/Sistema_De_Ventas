@@ -1,0 +1,12 @@
+Vista.FrmInternoCobrar$4
+Vista.FrmInternoCobrar$5
+Vista.FrmInternoCobrar$2
+Vista.FrmInternoCobrar$3
+Vista.FrmInternoCobrar$8
+Vista.FrmInternoCobrar
+Vista.FrmInternoCobrar$9
+Vista.FrmInternoCobrar$6
+Vista.FrmInternoCobrar$7
+Vista.FrmInternoCobrar$11
+Vista.FrmInternoCobrar$10
+Vista.FrmInternoCobrar$1
