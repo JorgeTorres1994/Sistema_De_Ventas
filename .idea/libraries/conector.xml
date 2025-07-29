@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="conector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/conector/mysql-connector-java-5.1.46-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/conector/itext5-itextpdf-5.5.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/conector/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

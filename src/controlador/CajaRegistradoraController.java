@@ -10,7 +10,7 @@ public class CajaRegistradoraController {
 
     public boolean abrirCaja(CajaRegistradora caja) {
         boolean resultado = false;
-        String sql = "INSERT INTO caja_registradora (monto_apertura, responsable_apertura, fecha_apertura) VALUES (?, ?, ?)";
+        String sql = "INSERT INTO caja_registradora (montoApertura, responsableApertura, fechaAperur) VALUES (?, ?, ?)";
         Connection cn = conexion.conectar();
         
         try (PreparedStatement statement = cn.prepareStatement(sql)) {

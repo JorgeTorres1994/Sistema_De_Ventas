@@ -9,12 +9,12 @@ import javax.swing.JOptionPane;
 import modelo.CajaRegistradora;
 import modelo.Usuario;
 
-public class FrmInternoAbrirCaja extends javax.swing.JInternalFrame {
+public class FrmInternoAbrirCaja1 extends javax.swing.JInternalFrame {
 
     private String rolUsuario;
     private String nombreUsuario;
     
-    public FrmInternoAbrirCaja(Usuario usuario) {
+    public FrmInternoAbrirCaja1(Usuario usuario) {
         initComponents();
         this.setSize(new Dimension(340, 425));
         this.setTitle("Abrir Caja");
