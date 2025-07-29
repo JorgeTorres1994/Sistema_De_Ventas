@@ -22,7 +22,7 @@ public class FrmInternoAbrirCaja extends javax.swing.JInternalFrame {
         Config_Usuario_Controller control_config_usuarios = new Config_Usuario_Controller();
         rolUsuario = control_config_usuarios.obtenerRol(usuario);
         nombreUsuario = control_config_usuarios.obtenerNombreApellidoUsuario(usuario);
-        lblUsuarioLogueado.setText("usuario");
+        lblUsuarioLogueado.setText("sadsadsa");
         
         if ("Administrador".equals(rolUsuario)) {
             lblUsuarioLogueado.setText(nombreUsuario);
